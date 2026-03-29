@@ -816,6 +816,11 @@ const siteData = {
       { id: 16, image: "/images/pool/pool-16.jpg", category: "Before & After", title: "Complete transformation" },
     ],
   },
+  footer: {
+    description:
+      "Harare's trusted swimming pool specialists. Crystal-clear maintenance, expert repairs, and complete pool installations since 2015.",
+    copyright: "The Poolman Zimbabwe",
+  },
 };
 
 export default siteData;
