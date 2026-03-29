@@ -539,13 +539,7 @@ const siteData = {
     ],
     heroSubtitle:
       "Real reviews from real pool owners across Harare. We let our water quality do the talking.",
-    ratingBreakdown: [
-      { stars: 5, count: 32 },
-      { stars: 4, count: 8 },
-      { stars: 3, count: 2 },
-      { stars: 2, count: 0 },
-      { stars: 1, count: 0 },
-    ],
+    ratingBreakdown: { 5: 32, 4: 8, 3: 2, 2: 0, 1: 0 },
     items: [
       {
         name: "Sarah Chikwanda",
